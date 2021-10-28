@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/0xCrowd/ceramic-node#readme",
   "dependencies": {
-    "@ceramicnetwork/cli": "^1.6.1"
+    "@ceramicnetwork/cli": "^1.6.1",
+    "npx": "^10.2.2"
   }
 }
