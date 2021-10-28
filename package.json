@@ -1,0 +1,22 @@
+{
+  "name": "ceramic-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ceramic": "npx ceramic daemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xCrowd/ceramic-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xCrowd/ceramic-node/issues"
+  },
+  "homepage": "https://github.com/0xCrowd/ceramic-node#readme",
+  "dependencies": {
+    "@ceramicnetwork/cli": "^1.6.1"
+  }
+}
